@@ -213,3 +213,40 @@ data/processed/*
 # Keep folder structure
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Data files (optional — depends on your project)
+data/raw/*
+data/processed/*
+
+# But keep structure (important!)
+!data/raw/.gitkeep
+!data/processed/.gitkeep
