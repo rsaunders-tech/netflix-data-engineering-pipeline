@@ -156,7 +156,7 @@ Netflix dataset sourced from public datasets (e.g., Kaggle).
 
 ## 👤 Author
 
-Your Name
+Richard Saunders
 
 ---
 
